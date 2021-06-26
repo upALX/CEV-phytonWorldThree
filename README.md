@@ -1,4 +1,4 @@
-<h1 align="center"> Curso-em-video-Python-1 </h1>
-Esse repositório é dedicado aos exercicíos do primeiro mundo Python do Curso em Vídeo.
+<h1 align="center"> Curso em Vídeo | Phyton | Mundo 3 </h1>
+Esse repositório é dedicado aos exercicíos dO TERCEIRO mundo Python do Curso em Vídeo.
 
 ---
