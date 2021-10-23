@@ -5,7 +5,8 @@
 
 <h1 align="center">Technologies used </h1>
 <p align="center">
-  <a href="https://www.java.com/en/">
+  <a href="">
+      Python
   </a>
 </p>
   
