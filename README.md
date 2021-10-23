@@ -5,8 +5,8 @@
 
 <h1 align="center">Technologies used </h1>
 <p align="center">
-  <a href="">
-      Python
+  <a href="https://www.python.org/about/">
+      Python | 3.9
   </a>
 </p>
   
