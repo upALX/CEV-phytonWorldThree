@@ -3,6 +3,10 @@
 
 ### Overview
 
+**English**
+
+This repo is dedicated to solving all challenges of the second world Python through the Curso em Video channel on YouTube . Here you can find all the challenges with your statements complete. This course has been attended by over 1 million people and is possibly one of the largest community-oriented python courses on the planet.
+
 <h2 align="center">Technologies used </h2>
 <p align="center">
   <a href="https://www.python.org/about/">
