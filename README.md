@@ -9,7 +9,9 @@
       <img src="https://img.shields.io/badge/Python-3.9.7-purple">
   </a>
 </p>
+
 ---
+
 # :pushpin: Topics
 # :rocket: About
 # :memo: Exercices list
