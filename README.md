@@ -1,5 +1,4 @@
 <h1 align="center"> Curso em Vídeo | Phyton | Mundo 3 </h1>
-<p>  This repo os dedicated a solving all the challenges about the THIRD Python world through "Curso em Vídeo" channel on YouTube. </p>
 
 ### Overview
 
