@@ -7,7 +7,7 @@
 
 <p> This repo is dedicated to solving all challenges of the third world Python through the <a href="http://youtube.com/cursoemvideo"> Curso em Video channel on YouTube </a>. Here you can find all the challenges with your statements complete. This course has been attended by over 1 million people and is possibly one of the largest community-oriented python courses on the planet.</p>
 
-Este repo se dedica a solucionar todos os desafios do primeiro mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Este curso foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos abertos de python voltados para a comunidade no planeta.
+<p>Este repo se dedica a solucionar todos os desafios do primeiro mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Este curso foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos abertos de python voltados para a comunidade no planeta.</p>
 
 <h2 align="center">Technologies used </h2>
 <p align="center">
