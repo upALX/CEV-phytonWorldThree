@@ -23,7 +23,6 @@
 * <a href="#bugs">Did you find a bug or want cotribute to this project?</a>
 * <a href="#license">About the license of this project</a>
 
-
 <h2 id="about"> :rocket: About </h2>
 
 **Português**
