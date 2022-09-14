@@ -17,7 +17,6 @@
 
 ---
 
-
 # :pushpin: Topics
 * <a href="#about">About this project </a>
 * <a href="#exercices">Exercices list</a>
@@ -36,7 +35,6 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 <h2 id="exercices"> :memo: Exercices list </h2>
 
 <h2 id="bugs"> :bug: Bugs </h2>
-
 
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/CEV-phytonWorldThree/issues) or solve the problem and make a [pull request](https://github.com/upALX/CEV-phytonWorldThree/pulls). I´ll be very happy with your contribution :)
 
