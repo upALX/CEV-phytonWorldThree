@@ -20,7 +20,6 @@
 
 # :pushpin: Topics
 
-<h2 id="about"> :rocket: About </h2>
 
 
 **Português**
