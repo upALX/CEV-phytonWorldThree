@@ -19,7 +19,6 @@
 
 
 # :pushpin: Topics
-* <a href="#bugs">Did you find a bug or want cotribute to this project?</a>
 
 <h2 id="about"> :rocket: About </h2>
 
