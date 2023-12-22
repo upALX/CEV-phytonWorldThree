@@ -19,7 +19,6 @@
 
 
 # :pushpin: Topics
-* <a href="#exercices">Exercices list</a>
 * <a href="#bugs">Did you find a bug or want cotribute to this project?</a>
 * <a href="#license">About the license of this project</a>
 
