@@ -17,7 +17,6 @@
 
 ---
 
-# :pushpin: Topics
 
 **Português**
 <p>Olá, seja bem vindo ao repo de todos os exercícios resolvidos do mundo 3 de Python do Curso em Vídeo. Talvez você seja assim como eu um gafanhoto e tem um apetite voraz por aprendizado assim como eu. Por conta disso sabe que no CEV presamos pela prática para o aprendizado, a partir disso criei esse repo com a intenção de levar a todos os devs iniciantes em Python uma oportunidade não apenas de copiar e colar código, mas analisar os desafios propostos do curso e fazer suas próprias resoluções, assim como comparar resoluções e verificar as minhas anotações a fim de não perder nenhum detalhe de cada aula. 
